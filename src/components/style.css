@@ -1,0 +1,102 @@
+body {
+    font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    padding-top: 70px;
+    -webkit-font-smoothing: antialiased;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.card1{
+    background: #00b39b;
+    color: #fff;
+    text-shadow: none;
+    font-family: sans-serif;
+    height: 350px;
+}
+.card2{
+    background: #3c83df;
+    color: #fff;
+    text-shadow: none;
+    font-family: sans-serif;
+    height: 350px;
+   
+    
+}
+.card3{
+    background:  #1b2734;
+    color: #fff;
+    text-shadow: none;
+    font-family: sans-serif;
+    height: 350px;
+    
+}
+.img-log{
+    margin-top: -3rem;
+}
+.selc{
+    background-color: transparent;
+    color: white;
+    margin-top: 10rem;
+    font-size: 1.5rem;
+}
+.myImage {
+    width: 250px;
+    height: 250px;
+  
+  }
+.nav-top{
+    margin-top: -10rem;
+}
+.navbar-light .navbar-text a{
+    list-style: none;
+    font-size: .9375rem;
+    font-weight: 400;
+    line-height: 2em;
+    padding: 1rem;
+    color: #747474;
+   
+}
+.navbar-light .navbar-text a:hover{
+    color: #00b39b;
+}
+.deupar{
+    display: flex;
+    justify-content: space-around;
+    margin: 5rem;
+}
+
+
+.titre1,h1{
+    font-size: 2.125rem;
+    color: #00b39b;
+    text-align: center;
+    margin: 1em 0;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 100;
+    letter-spacing: -.3px;
+    margin-top: -2rem;
+}
+
+    .im-link {
+    font-size: 2rem;
+    display: inline-block;
+letter-spacing: 4px;
+word-spacing: 5px;
+   
+    color: #747474;
+    margin-top: 5rem;
+}
+.im-link:hover{
+    color: #3c83df;
+}
+.pet-titre{
+    font-size: 1.5rem;
+    margin-top: 5rem;
+    text-align: justify;
+  
+}
