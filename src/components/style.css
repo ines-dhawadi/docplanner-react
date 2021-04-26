@@ -126,7 +126,7 @@ word-spacing: 5px;
     overflow: hidden;
     margin: 3.125rem auto 5.5rem;
     padding: 3rem;
-    height: 100rem;
+    height: 40rem;
 }
 .stat22{
     margin-left: 6.8rem;
@@ -222,4 +222,25 @@ word-spacing: 5px;
     text-decoration: none!important;
     text-transform: uppercase;
     transition: all .2s ease 0s;
+}
+
+.join-us__header {
+    max-width: 520px;
+    margin: 0 auto;
+    font-size: .875em;
+    text-align: center;
+}
+.join-us__header h1 {
+    font-size: 2.1428571429em;
+    color: #333;
+    margin-bottom: .75em;
+    margin-top: 5rem;
+}
+footer {
+    display: block;
+    text-align: center;
+    font-size: 12px;
+}
+.hr-footer{
+    margin-top: 4rem;
 }
